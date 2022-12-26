@@ -14,6 +14,12 @@ sites:
   - name: R&D Lab Inc.
     url: http://rdlabinc.com
  
+  - name: Cloudflare
+    url: https://www.cloudflare.com
+  - name: Cloudflare Pages
+    url: https://www.pages.dev
+  - name: GitHub
+    url: https://github.com
   - name: Google
     url: https://www.google.com
   - name: Bing
