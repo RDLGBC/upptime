@@ -3,14 +3,25 @@ owner: RDLGBC # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: RDLABS
     url: https://www.rdlabs.science/
   - name: RDL
     url: https://www.rdl.science/
+  - name: RespirVent
+    url: https://www.respirvent.com/
+  - name: Doyle Dynamics
+    url: http://www.doyledynamics.com/
+  - name: R&D Lab Inc.
+    url: http://rdlabinc.com
+ 
+  - name: Google
+    url: https://www.google.com
+  - name: Bing
+    url: https://www.bing.com
+  - name: Facebook
+    url: https://www.facebook.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
 
 assignees:
   - RDLGBC
