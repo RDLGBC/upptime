@@ -92,7 +92,7 @@
     "timeMonth": 552,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-12-26": 277
+      "2022-12-26": 278
     }
   },
   {
@@ -119,19 +119,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pages.cloudflare.com.ico",
     "slug": "cloudflare-pages",
     "status": "up",
-    "uptime": "5.22%",
-    "uptimeDay": "5.22%",
-    "uptimeWeek": "5.22%",
-    "uptimeMonth": "5.22%",
-    "uptimeYear": "5.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 119,
     "timeWeek": 119,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2022-12-26": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitHub",
