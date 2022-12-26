@@ -8,9 +8,9 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: RDLABS
-    url: https://rdlabs.science
+    url: https://www.rdlabs.science/
   - name: RDL
-    url: https://rdl.science
+    url: https://www.rdl.science/
 
 assignees:
   - RDLGBC
