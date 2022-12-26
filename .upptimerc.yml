@@ -17,7 +17,7 @@ sites:
   - name: Cloudflare
     url: https://www.cloudflare.com
   - name: Cloudflare Pages
-    url: https://www.pages.dev
+    url: https://pages.cloudflare.com/
   - name: GitHub
     url: https://github.com
   - name: Google
