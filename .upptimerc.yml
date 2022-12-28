@@ -14,9 +14,12 @@ sites:
   - name: R&D Lab Inc.
     url: http://rdlabinc.com
  
-  - name: Authoritative DNS Provider - Cloudflare
+  - name: Authoritative DNS Provider - ?
+    url: https://
   - name: Public DNS Resolver - Cloudflare
     url: https://1.1.1.1
+  - name: Public DNS Resolver - Google
+    url: https://8.8.8.8
 
  
   - name: Cloudflare
@@ -63,29 +66,29 @@ sites:
 
   - name: DNS Root Server - A - Verisign Inc
     url: http://198.41.0.4
-    - name: DNS Root Server - B
+  - name: DNS Root Server - B
     url: http://199.9.14.201
-    - name: DNS Root Server - C
+  - name: DNS Root Server - C
     url: http://192.33.4.12
-    - name: DNS Root Server - D
+  - name: DNS Root Server - D
     url: http://199.7.91.13
-    - name: DNS Root Server - E
+  - name: DNS Root Server - E
     url: http://192.203.230.10
-    - name: DNS Root Server - F
+  - name: DNS Root Server - F
     url: http://195.5.5.241
-    - name: DNS Root Server - G
+  - name: DNS Root Server - G
     url: http://192.112.36.4
-    - name: DNS Root Server - H
+  - name: DNS Root Server - H
     url: http://198.97.190.53
-    - name: DNS Root Server - I
+  - name: DNS Root Server - I
     url: http://192.36.148.17
-    - name: DNS Root Server - J
+  - name: DNS Root Server - J
     url: http://192.58.128.30
-    - name: DNS Root Server - K
+  - name: DNS Root Server - K
     url: http://193.0.14.129
-    - name: DNS Root Server - L
+  - name: DNS Root Server - L
     url: http://199.7.83.42
-    - name: DNS Root Server - M
+  - name: DNS Root Server - M
     url: http://202.12.27.33
 
 assignees:
