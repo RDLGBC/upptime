@@ -24,6 +24,8 @@ sites:
     url: https://www.cloudflare.com
   - name: Cloudflare Pages
     url: https://pages.cloudflare.com/
+  - name: The Bike Station
+    url: https://website-bikestn.pages.dev/
   - name: GitHub
     url: https://github.com
   - name: Google
