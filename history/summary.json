@@ -16,7 +16,7 @@
     "timeMonth": 237,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-02-06": 568,
+      "2023-02-06": 577,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -78,7 +78,7 @@
     "timeMonth": 625,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2023-02-06": 568,
+      "2023-02-06": 577,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -128,19 +128,19 @@
     "url": "https://www.respirvent.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.respirvent.com.ico",
     "slug": "respir-vent",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 536,
-    "timeWeek": 696,
-    "timeMonth": 792,
-    "timeYear": 798,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 795,
+    "timeDay": 611,
+    "timeWeek": 694,
+    "timeMonth": 789,
+    "timeYear": 795,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 9
     }
   },
   {
@@ -178,7 +178,7 @@
     "timeMonth": 582,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-02-06": 568,
+      "2023-02-06": 577,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
