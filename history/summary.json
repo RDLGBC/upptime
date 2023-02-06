@@ -16,7 +16,7 @@
     "timeMonth": 237,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-02-06": 72,
+      "2023-02-06": 568,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -78,7 +78,7 @@
     "timeMonth": 625,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2023-02-06": 72,
+      "2023-02-06": 568,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -128,9 +128,9 @@
     "url": "https://www.respirvent.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.respirvent.com.ico",
     "slug": "respir-vent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,7 +139,9 @@
     "timeWeek": 696,
     "timeMonth": 792,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-06": 0
+    }
   },
   {
     "name": "Doyle Dynamics",
@@ -176,7 +178,7 @@
     "timeMonth": 582,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-02-06": 72,
+      "2023-02-06": 568,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
