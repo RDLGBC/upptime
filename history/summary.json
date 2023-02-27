@@ -16,7 +16,7 @@
     "timeMonth": 186,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-02-27": 1112,
+      "2023-02-27": 1126,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -99,7 +99,7 @@
     "timeMonth": 658,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2023-02-27": 1112,
+      "2023-02-27": 1126,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -191,17 +191,17 @@
     "url": "http://www.doyledynamics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.doyledynamics.com.ico",
     "slug": "doyle-dynamics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.22%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 550,
-    "timeDay": 718,
-    "timeWeek": 585,
-    "timeMonth": 563,
-    "timeYear": 550,
+    "time": 548,
+    "timeDay": 632,
+    "timeWeek": 564,
+    "timeMonth": 558,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2023-02-27": 40
     }
@@ -223,7 +223,7 @@
     "timeMonth": 655,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-02-27": 1112,
+      "2023-02-27": 1126,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
