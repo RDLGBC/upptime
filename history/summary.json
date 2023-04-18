@@ -16,7 +16,7 @@
     "timeMonth": 222,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-04-18": 67,
+      "2023-04-18": 1268,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -149,7 +149,7 @@
     "timeMonth": 614,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-04-18": 67,
+      "2023-04-18": 1268,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 572,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2023-04-18": 67,
+      "2023-04-18": 1268,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -611,9 +611,9 @@
     "url": "https://www.facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -622,7 +622,9 @@
     "timeWeek": 260,
     "timeMonth": 235,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   },
   {
     "name": "Wikipedia",
