@@ -16,7 +16,7 @@
     "timeMonth": 312,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-06-14": 1300,
+      "2023-06-14": 1309,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -206,7 +206,7 @@
     "timeMonth": 711,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2023-06-14": 1300,
+      "2023-06-14": 1310,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -443,7 +443,7 @@
     "timeMonth": 575,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2023-06-14": 1300,
+      "2023-06-14": 1310,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -639,19 +639,19 @@
     "url": "https://8.8.8.8",
     "icon": "https://icons.duckduckgo.com/ip3/8.8.8.8.ico",
     "slug": "public-dns-resolver-google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 2200,
-    "timeWeek": 699,
-    "timeMonth": 298,
+    "timeDay": 1525,
+    "timeWeek": 641,
+    "timeMonth": 294,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2023-06-14": 19
+      "2023-06-14": 28
     }
   },
   {
