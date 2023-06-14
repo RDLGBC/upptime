@@ -16,7 +16,7 @@
     "timeMonth": 312,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-06-14": 76,
+      "2023-06-14": 1087,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -206,7 +206,7 @@
     "timeMonth": 711,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2023-06-14": 76,
+      "2023-06-14": 1087,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -443,7 +443,7 @@
     "timeMonth": 575,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2023-06-14": 76,
+      "2023-06-14": 1088,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -639,9 +639,9 @@
     "url": "https://8.8.8.8",
     "icon": "https://icons.duckduckgo.com/ip3/8.8.8.8.ico",
     "slug": "public-dns-resolver-google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -650,7 +650,9 @@
     "timeWeek": 219,
     "timeMonth": 176,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-14": 0
+    }
   },
   {
     "name": "Cloudflare",
@@ -784,11 +786,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 294,
     "timeDay": 177,
     "timeWeek": 333,
