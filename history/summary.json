@@ -16,7 +16,7 @@
     "timeMonth": 179,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-06-30": 82,
+      "2023-06-30": 983,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -222,7 +222,7 @@
     "timeMonth": 585,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2023-06-30": 82,
+      "2023-06-30": 983,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -475,7 +475,7 @@
     "timeMonth": 569,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2023-06-30": 82,
+      "2023-06-30": 983,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -708,9 +708,9 @@
     "url": "https://www.cloudflare.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflare.com.ico",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -719,7 +719,9 @@
     "timeWeek": 77,
     "timeMonth": 87,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-30": 0
+    }
   },
   {
     "name": "Cloudflare Pages",
