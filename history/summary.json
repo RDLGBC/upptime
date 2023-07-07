@@ -16,7 +16,7 @@
     "timeMonth": 147,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-07-07": 87,
+      "2023-07-07": 238,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -229,7 +229,7 @@
     "timeMonth": 563,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2023-07-07": 87,
+      "2023-07-07": 238,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 562,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2023-07-07": 87,
+      "2023-07-07": 238,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -690,9 +690,9 @@
     "url": "https://1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/1.1.1.1.ico",
     "slug": "public-dns-resolver-cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -701,7 +701,9 @@
     "timeWeek": 41,
     "timeMonth": 61,
     "timeYear": 63,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-07": 0
+    }
   },
   {
     "name": "Public DNS Resolver - Google",
