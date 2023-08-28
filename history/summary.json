@@ -16,7 +16,7 @@
     "timeMonth": 245,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-28": 1174,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -281,7 +281,7 @@
     "timeMonth": 676,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-28": 1174,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -535,18 +535,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.respirvent.com.ico",
     "slug": "respir-vent",
     "status": "down",
-    "uptime": "88.16%",
+    "uptime": "87.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "5.08%",
-    "uptimeYear": "88.16%",
+    "uptimeMonth": "2.53%",
+    "uptimeYear": "87.88%",
     "time": 830,
     "timeDay": 394,
     "timeWeek": 362,
     "timeMonth": 396,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-28": 1174,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -623,7 +623,7 @@
     "timeMonth": 497,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2023-08-28": 58,
+      "2023-08-28": 1174,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -1015,9 +1015,9 @@
     "url": "https://youtube.com",
     "icon": "https://icons.duckduckgo.com/ip3/youtube.com.ico",
     "slug": "youtube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1026,7 +1026,9 @@
     "timeWeek": 394,
     "timeMonth": 407,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-28": 0
+    }
   },
   {
     "name": "Bing",
